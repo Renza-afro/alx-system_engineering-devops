@@ -16,4 +16,5 @@
 9. Divide and rule- > Write a script that prints the result of POWER divided by DIVIDE, followed by a new line, POWER  and DIVIDE are environment variable.
 10. 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath- > Write a script that displays the result of BREATH to the power LOVE,BREATH and LOVE are environment variables, the script should disply the result, followed by new line.
 11. 11. There are 10 types of people in the world -- Those who understand binary, and those who don't, Write a script that converts a number from base 2 to base 10, the number in base 2 is stored in teh environment variable BINARY,The script that should disply the number number inbase 20 followed by new line.
+12. Combination- > Create a script that prints all possible combinations of two letters, except oo.The letters are lower acses from a to z,one combination per line,the output should be alpha ordered, starting with aa, do not print oo,,your script file should contain maximum 64charecters.
 
