@@ -14,3 +14,4 @@
 12. Whta's new- > Create a script that displays the 10 newest files in the current directory, one file per line, sorted from the newest to the oldest.
 13. being unique is better than being perfect- > Create a script that takes a list of words as input and prints only words that appear exactly once, input format:one line,one word,ouput:one line,one word,words should be sorted.
 14. It must be in that file- > Display lines containing the pattern “root” from the file /etc/passwd.
+15. Count that word- > Display the number of lines that contain the pattern “bin” in the file /etc/passwd.
