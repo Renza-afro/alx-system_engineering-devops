@@ -2,8 +2,8 @@
 # This script prints "Holberton school" 10 times
 n=0
 
-until [ $n -ge 10 ]
+until [ $n -eq 10 ]
 do
-    echo "Holberton School"
-    n=$(( n + 1 ))
+  echo "Best School"
+  (( n++ ))
 done
